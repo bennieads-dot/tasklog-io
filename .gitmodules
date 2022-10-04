@@ -1,0 +1,6 @@
+[submodule "tasklog-frontend"]
+	path = tasklog-frontend
+	url = https://github.com/bennieads-dot/tasklog-frontend.git
+[submodule "tasklog-backend"]
+	path = tasklog-backend
+	url = https://github.com/bennieads-dot/tasklog-backend.git
